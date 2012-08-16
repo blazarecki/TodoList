@@ -1,0 +1,20 @@
+{
+    "name": "benjaminlazarecki/todo-list-php",
+    "version": "0.1",
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "autoload": {
+        "psr-0": { "TodoList": "src/" }
+    },
+    "type": "library",
+    "installation-source": "dist",
+    "license": ["MIT"],
+    "authors": [
+        {
+            "name": "Benjamin Lazarecki",
+            "email": "benjamin.lazarecki@gmail.com"
+        }
+    ],
+    "description": "Don't manage your todo list, just do it !"
+}
